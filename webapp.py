@@ -60,7 +60,7 @@
 import streamlit as st
 from pdfextractor import text_extractor
 import google.generativeai as genai
-import os
+import os 
 
 # =========================
 # Configure Gemini AI
